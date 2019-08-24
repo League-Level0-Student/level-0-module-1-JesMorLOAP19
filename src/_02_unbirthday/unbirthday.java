@@ -7,15 +7,14 @@ public static void main(String[] args) {
 String input=	JOptionPane.showInputDialog("when is your birthday");
 if (input.equals("08/17")) {
 	JOptionPane.showMessageDialog(null,"happy birthday") ;
+JOptionPane.showMessageDialog(null"jessica thing is+jessica thing");
+}if(input.equals("jessica");
+
+
 
 
 }
-
-
-
-
-}
-}
+}on);
 
 
 
